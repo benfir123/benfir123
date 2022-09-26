@@ -5,3 +5,6 @@ Hi. I'm Ben Chanapai, a professional Full Stack Web Developer based out of Bangk
 * 💻 HTML, CSS, JS
 * ⚛ React
 * 🇳Node.js
+* 🇪Express
+* Ⓜ️MongoDB
+* 🤡Jest
