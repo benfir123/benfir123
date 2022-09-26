@@ -1,10 +1,10 @@
 # Ben Chanapai
 Hi. I'm Ben Chanapai, a professional Full Stack Web Developer based out of Bangkok, Thailand.
 
-## Skills and Experience
-* 💻 HTML, CSS, JS
+## Skills
+* 💻 HTML, CSS, JavaScript
 * ⚛ React
 * 🇳Node.js
 * 🇪Express
-* Ⓜ️MongoDB
-* 🤡Jest
+* Ⓜ️ MongoDB
+* 🤡 Jest
