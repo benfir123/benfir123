@@ -8,3 +8,5 @@ Hi. I'm Ben Chanapai, a professional Full Stack Web Developer based out of Bangk
 * 🇪Express
 * Ⓜ️ MongoDB
 * 🤡 Jest
+* 🐍 Python
+* 🇩 Django
