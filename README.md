@@ -4,8 +4,8 @@ Hi. I'm Ben Chanapai, a professional Full Stack Web Developer based out of Bangk
 ## Skills
 * 💻 HTML, CSS, JavaScript
 * ⚛ React
-* 🇳Node.js
-* 🇪Express
+* 🇳 Node.js
+* 🇪 Express
 * Ⓜ️ MongoDB
 * 🤡 Jest
 * 🐍 Python
